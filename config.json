@@ -1,0 +1,6 @@
+{
+  "base_url": "https://demoqa.com/automation-practice-form",
+  "browser": "chrome",
+  "upload_image_path": "C:\\Users\\Omkar\\Pictures\\sample.jpg",
+  "implicit_wait": 10
+}

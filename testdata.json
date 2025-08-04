@@ -1,0 +1,16 @@
+{
+  "first_name": "Omkar",
+  "last_name": "Sanas",
+  "email": "omkar@example.com",
+  "mobile_number": "9876543210",
+  "dob": {
+    "year": "2000",
+    "month": "May",
+    "day": 15
+  },
+  "subject": "Maths",
+  "address": "123, Pune, Maharashtra",
+  "state": "NCR",
+  "city": "Delhi",
+  "upload_image_path": "C:\\Users\\Omkar\\Pictures\\sample.jpg"
+}
