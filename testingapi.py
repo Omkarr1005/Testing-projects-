@@ -1,0 +1,10 @@
+https://reqres.in/api/users
+https://jsonplaceholder.typicode.com/posts
+https://jsonplaceholder.typicode.com/comments
+https://jsonplaceholder.typicode.com/comments
+https://reqres.in/api/users/2
+https://reqres.in/api/users/2
+https://reqres.in/api/users/2
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=demo
+https://gorest.co.in/public/v2/users
+https://petstore.swagger.io/v2/pet
